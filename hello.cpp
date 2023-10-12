@@ -10,9 +10,9 @@ int main()
 {
     int size;
     char name[size];
-    cout<<"entersize"<<endl;
+    cout<<"Enter the size"<<endl;
     cin>>size;
     cin>>name;
-    cout<<"the name is "<<name<<endl;
+    cout<<"The name is "<<name<<endl;
     return 0;
 }
